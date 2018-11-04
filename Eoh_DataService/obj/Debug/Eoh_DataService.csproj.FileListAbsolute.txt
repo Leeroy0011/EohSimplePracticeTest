@@ -1,0 +1,17 @@
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_DataService.dll.config
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_DataService.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_DataService.pdb
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\EntityFramework.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_Entities.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_Entities.pdb
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\Eoh_Entities.dll.config
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\EntityFramework.xml
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.csprojAssemblyReference.cache
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.csproj.CopyComplete
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.pdb
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.Migrations.Initial.resources
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_DataService\obj\Debug\Eoh_DataService.csproj.GenerateResource.cache

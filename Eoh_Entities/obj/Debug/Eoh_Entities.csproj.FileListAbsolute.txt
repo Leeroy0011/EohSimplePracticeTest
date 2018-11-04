@@ -1,0 +1,12 @@
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\Eoh_Entities.dll.config
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\Eoh_Entities.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\Eoh_Entities.pdb
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\EntityFramework.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\EntityFramework.xml
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\obj\Debug\Eoh_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\obj\Debug\Eoh_Entities.csproj.CopyComplete
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\obj\Debug\Eoh_Entities.dll
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\obj\Debug\Eoh_Entities.pdb
+C:\Users\Ruan\source\repos\Eoh_SimplePracticleTest\Eoh_Entities\obj\Debug\Eoh_Entities.csprojAssemblyReference.cache
